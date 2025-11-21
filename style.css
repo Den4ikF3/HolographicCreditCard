@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+#app-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    display: block;
+}
